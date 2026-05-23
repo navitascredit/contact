@@ -1,0 +1,23 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Mandella;Eric;;;
+FN:Eric Mandella
+ORG:Navitas Credit Corp.
+TITLE:VP of Corporate Operations
+TEL;TYPE=WORK,VOICE:+19045432575
+TEL;TYPE=CELL,VOICE:+19043070598
+EMAIL;TYPE=WORK:emandella@navitascredit.com
+item1.URL:https://navitex.navitascredit.com/applynow/new/v39xmQ8m
+item1.X-ABLabel:Apply Now
+item2.URL:https://navitex.navitascredit.com/getstarted/v39xmQ8m
+item2.X-ABLabel:Get Started
+item3.URL:https://navitex.navitascredit.com/getquote/v39xmQ8m
+item3.X-ABLabel:Quoter
+item4.URL:https://www.navitascredit.com
+item4.X-ABLabel:Navitas Website
+item5.URL:https://www.linkedin.com
+item5.X-ABLabel:LinkedIn
+ADR;TYPE=WORK:;;203 Fort Wade Rd.;Ponte Vedra;FL;32081;US
+NOTE:We met at the [tradeshow] show, use the Apply Now URL to send me an app any time.
+END:VCARD
+
