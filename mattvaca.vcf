@@ -4,8 +4,8 @@ N:Vaca;Matthew;;;
 FN:Matthew Vaca
 ORG:Navitas Credit
 TITLE:Account Executive
-TEL;TYPE=WORK,VOICE:+19044261067
-TEL;TYPE=CELL,VOICE:+
+TEL;TYPE=DIRECT,VOICE:+19044261067
+TEL;TYPE=CELL,VOICE:+9041234567
 EMAIL;TYPE=WORK:mvaca@navitascredit.com
 item1.URL:https://navitex.navitascredit.com/applynow/new/v39xmQ8m
 item1.X-ABLabel:Apply Now
