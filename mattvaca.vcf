@@ -4,9 +4,9 @@ N:Vaca;Matthew;;;
 FN:Matthew Vaca
 ORG:Navitas Credit
 TITLE:Account Executive
-TEL;TYPE=Direct,VOICE:+19044261067
+TEL;TYPE=direct,VOICE:+19044261067
 TEL;TYPE=CELL,VOICE:+19041234567
-EMAIL;TYPE=WORK:mvaca@navitascredit.com
+EMAIL;TYPE=email:mvaca@navitascredit.com
 item1.URL:https://navitex.navitascredit.com/applynow/new/v39xmQ8m
 item1.X-ABLabel:Apply Now
 item2.URL:https://navitex.navitascredit.com/getstarted/v39xmQ8m
@@ -15,6 +15,6 @@ item3.URL:https://navitex.navitascredit.com/getquote/v39xmQ8m
 item3.X-ABLabel:Quoter
 item4.URL:https://www.navitascredit.com
 item4.X-ABLabel:Navitas Website
-ADR;TYPE=WORK:;;203 Fort Wade Rd.;Ponte Vedra;FL;32081;US
+ADR;TYPE=address:;;203 Fort Wade Rd.;Ponte Vedra;FL;32081;US
 NOTE:Use the Apply Now URL to send me an app any time.
 END:VCARD
