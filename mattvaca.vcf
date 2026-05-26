@@ -8,13 +8,13 @@ TEL;TYPE=direct,VOICE:+19044261067
 TEL;TYPE=CELL,VOICE:+19041234567
 EMAIL;TYPE=email:mvaca@navitascredit.com
 item1.URL:https://navitex.navitascredit.com/applynow/new/v39xmQ8m
-item1.X-ABLabel:Apply Now
+item1.X-ABLabel:apply now
 item2.URL:https://navitex.navitascredit.com/getstarted/v39xmQ8m
-item2.X-ABLabel:Get Started
+item2.X-ABLabel:get started
 item3.URL:https://navitex.navitascredit.com/getquote/v39xmQ8m
-item3.X-ABLabel:Quoter
+item3.X-ABLabel:quoter
 item4.URL:https://www.navitascredit.com
-item4.X-ABLabel:Navitas Website
+item4.X-ABLabel:navitas website
 ADR;TYPE=address:;;203 Fort Wade Rd.;Ponte Vedra;FL;32081;US
 NOTE:Use the Apply Now URL to send me an app any time.
 END:VCARD
