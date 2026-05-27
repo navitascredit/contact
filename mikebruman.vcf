@@ -6,9 +6,9 @@ ORG:Navitas Credit
 TITLE:Chief Executive Officer
 TEL;TYPE=WORK,VOICE:+19045432575 ext 200
 TEL;TYPE=CELL,VOICE:+19042548639
-EMAIL;TYPE=WORK:mbruman@navitascredit.com
+EMAIL;TYPE=email:mbruman@navitascredit.com
 item4.URL:https://www.navitascredit.com
 item4.X-ABLabel:navitas website
-ADR;TYPE=WORK:;;203 Fort Wade Rd.;Ponte Vedra;FL;32081;US
+ADR;TYPE=address:;;203 Fort Wade Rd.;Ponte Vedra;FL;32081;US
 NOTE:Don't call me. 
 END:VCARD
